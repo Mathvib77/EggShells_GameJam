@@ -452,7 +452,7 @@ MonoBehaviour:
   initialPoolSize: 3
   launchForce: 5
   projectileLifetime: 1.5
-  spawnOffset: 0.25
+  spawnOffset: 2
   isCharaInside: 0
 --- !u!114 &6682083906314856006
 MonoBehaviour:
