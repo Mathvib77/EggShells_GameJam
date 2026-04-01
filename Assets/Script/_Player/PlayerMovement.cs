@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
         public float speed = 5f;
-        public float rotationSpeed = 720f; // Degrees per second
+        public float rotationSpeed = 720f; 
 
     float velX = 0f;
 
@@ -22,8 +22,7 @@ public class PlayerMovement : MonoBehaviour
         {
             // Move the player forward
             transform.Translate(Vector2.up * speed * Time.fixedDeltaTime, Space.Self);
-            // Rotate the player based on horizontal input
-            
+            // Rotate the player based on horizontal input  
         }
 
         transform.Rotate(Vector3.forward, -velX * rotationSpeed * Time.fixedDeltaTime);

@@ -175,7 +175,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 11.4648, y: 11.4648, z: 11.4648}
+  m_LocalScale: {x: 8, y: 8, z: 8}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6972943602388243386}
@@ -308,7 +308,7 @@ GameObject:
   - component: {fileID: 6682083906314856006}
   m_Layer: 0
   m_Name: Ennemy_EggYolk_TEST
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -322,11 +322,7 @@ Transform:
   m_GameObject: {fileID: 4641287054363727099}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 7.83, y: 10.41, z: 0}
-=======
-  m_LocalPosition: {x: 19.35, y: 21.79, z: 0}
->>>>>>> Stashed changes
+  m_LocalPosition: {x: 7.3, y: 9, z: 0}
   m_LocalScale: {x: 1.8305224, y: 1.7159, z: 1.7159}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -385,7 +381,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 0.58040816, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -454,8 +450,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EggAI
   projectilePrefab: {fileID: 7101912274523556300}
   initialPoolSize: 3
-  launchForce: 15
-  projectileLifetime: 2.5
+  launchForce: 5
+  projectileLifetime: 2.2
   spawnOffset: 2
   isCharaInside: 0
 --- !u!114 &6682083906314856006
@@ -471,13 +467,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AI_Follow
   player: {fileID: 0}
-<<<<<<< Updated upstream
-  speed: 1
-=======
   followSpeed: 1
   followDistance: 20
   distance: 0
->>>>>>> Stashed changes
 --- !u!1 &7101912274523556300
 GameObject:
   m_ObjectHideFlags: 0
@@ -508,7 +500,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -11.641549, y: -10.628991, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3366884229063788028}
@@ -562,8 +554,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: d41153071ac2e0d4db9c9d3050c3e5b8, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: -4475832180944608382, guid: 45dc5bfadc8d2a74db8fead1eae56869, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -618,17 +610,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.0018989146, y: 0.003797792}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.55, y: 0.24}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.5252777, y: 0.18727528}
   m_EdgeRadius: 0
 --- !u!50 &2698457396925556043
 Rigidbody2D:

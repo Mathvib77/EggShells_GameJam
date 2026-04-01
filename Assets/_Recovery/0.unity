@@ -591,63 +591,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &251763888
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3615816152064995601, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_Name
-      value: Ennemy_Sausage (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.2367516
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 53.952118
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
 --- !u!1 &252550232
 GameObject:
   m_ObjectHideFlags: 0
@@ -1238,63 +1181,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1a5d64d3f37ae8548a745e5b8a530ee2, type: 3}
---- !u!1001 &421066007
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4641287054363727099, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_Name
-      value: Ennemy_EggYolk_TEST (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -32.624214
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -21.137875
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
 --- !u!1001 &421467993
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1642,63 +1528,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1a5d64d3f37ae8548a745e5b8a530ee2, type: 3}
---- !u!1001 &461253976
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3615816152064995601, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_Name
-      value: Ennemy_Sausage (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 75.19049
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -43.85025
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
 --- !u!1001 &466132013
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2554,63 +2383,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7668228316260155238, guid: 1a5d64d3f37ae8548a745e5b8a530ee2, type: 3}
   m_PrefabInstance: {fileID: 1636784009}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &632582154
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4641287054363727099, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_Name
-      value: Ennemy_EggYolk_TEST (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -39.113464
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 15.665478
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
 --- !u!1001 &644659924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4114,11 +3886,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6568066387558135769, guid: 3aace795283212143bb9661d865154d4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.98
+      value: 40.8
       objectReference: {fileID: 0}
     - target: {fileID: 6568066387558135769, guid: 3aace795283212143bb9661d865154d4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -30.32
+      value: -35.7
       objectReference: {fileID: 0}
     - target: {fileID: 6568066387558135769, guid: 3aace795283212143bb9661d865154d4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4323,6 +4095,10 @@ PrefabInstance:
     - target: {fileID: 4641287054363727099, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4537,7 +4313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6765294956372946636, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
       propertyPath: projectileLifetime
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: 5656c44fd9bb8e042b36dc48f80f3fd9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5793,6 +5569,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 29.3
@@ -6003,63 +5783,6 @@ PrefabInstance:
     - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.15482032
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
---- !u!1001 &1366257674
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3615816152064995601, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_Name
-      value: Ennemy_Sausage (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -21.592018
-      objectReference: {fileID: 0}
-    - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -48.48545
       objectReference: {fileID: 0}
     - target: {fileID: 6568066387558135769, guid: 956db106b95fc224c856e2066ee3110a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6376,6 +6099,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53.66591
@@ -6626,6 +6353,10 @@ PrefabInstance:
     - target: {fileID: 4641287054363727099, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7341,6 +7072,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -19.56464
@@ -7545,6 +7280,10 @@ PrefabInstance:
     - target: {fileID: 4641287054363727099, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8130,6 +7869,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 29.8
@@ -8199,6 +7942,10 @@ PrefabInstance:
     - target: {fileID: 4641287054363727099, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8726,6 +8473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.2255096
@@ -9149,6 +8900,10 @@ PrefabInstance:
     - target: {fileID: 4641287054363727099, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_Name
       value: Ennemy_EggYolk_TEST (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6765294956372946636, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
+      propertyPath: projectileLifetime
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6972943602388243386, guid: f8e8bd0a83d7eb74180ecbc6519fd00e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9819,8 +9574,3 @@ SceneRoots:
   - {fileID: 1576983081}
   - {fileID: 1594108026}
   - {fileID: 1929361905}
-  - {fileID: 1366257674}
-  - {fileID: 251763888}
-  - {fileID: 461253976}
-  - {fileID: 632582154}
-  - {fileID: 421066007}

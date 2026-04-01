@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3864425851386193243}
   m_Layer: 0
   m_Name: Ennemy_Sausage
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,11 +28,7 @@ Transform:
   m_GameObject: {fileID: 3615816152064995601}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 19.52, y: 25.87, z: 0}
-=======
-  m_LocalPosition: {x: 18.98245, y: 20.526451, z: 0}
->>>>>>> Stashed changes
+  m_LocalPosition: {x: 19.9, y: 25.16, z: 0}
   m_LocalScale: {x: 2.2145596, y: 0.75251, z: 0.75251}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -157,7 +153,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AI_Follow
   player: {fileID: 0}
-  speed: 3
+  followSpeed: 3.8
+  followDistance: 17.5
+  distance: 0
 --- !u!1 &5703834825920745972
 GameObject:
   m_ObjectHideFlags: 0

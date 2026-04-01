@@ -1,10 +1,8 @@
-using System.Reflection;
 using UnityEngine;
 
 [RequireComponent(typeof(PolygonCollider2D))]
 public class KillBox : MonoBehaviour
 {
-    [SerializeField] private bool destroyGameObject = true;
     [SerializeField] private string playerTag = "Player";
 
     private void Reset()
@@ -13,13 +11,20 @@ public class KillBox : MonoBehaviour
         if (poly != null) poly.isTrigger = true;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!collision.collider.CompareTag(playerTag)) return;
+        if (!other.CompareTag(playerTag)) return;
 
-        GameObject playerRoot = collision.rigidbody != null ? collision.rigidbody.gameObject : collision.gameObject;
+        // Cherche un PlayerHealth sur l'objet joueur (ou ses parents)
+        var health = other.GetComponentInParent<PlayerHealth>();
+        if (health != null)
+        {
+            health.Die();
+            return;
+        }
 
-        if (destroyGameObject)
-            Destroy(playerRoot);
+        // Sinon fallback : détruire le GameObject du joueur
+        var root = other.attachedRigidbody != null ? other.attachedRigidbody.gameObject : other.gameObject;
+        Destroy(root);
     }
 }

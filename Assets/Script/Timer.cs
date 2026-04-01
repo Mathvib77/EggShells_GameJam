@@ -1,22 +1,19 @@
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 using Unity.VisualScripting;
 //langue française
 
 public class Timer : MonoBehaviour
 {
     public float time;
-    public TextMeshProUGUI timerText;
+    public Text timerText;
     private bool isRunning;
 
     private void Start()
     {
         time = 0f;
         isRunning = true;
-
-        
     }
-
         void Update()
     {
         if (!isRunning) return;
