@@ -1,2 +1,2 @@
-# EggShells_GameJam
-GameJam ESMA 2026
+# GameJam_EggShells
+GameJam 2026
