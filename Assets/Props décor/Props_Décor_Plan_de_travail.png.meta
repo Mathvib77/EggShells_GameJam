@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c161d9f2019e52148840aae61809481b
+guid: 8ea9754fe337cc846896ff04255f59f2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 308360646430286056
-    second: Fourchette_Props_Obstacle_0
+      213: 9006844788159823654
+    second: "Props_D\xE9cor_Plan_de_travail_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fourchette_Props_Obstacle_0
+      name: "Props_D\xE9cor_Plan_de_travail_0"
       rect:
         serializedVersion: 2
         x: 0
-        y: 7
-        width: 24
-        height: 25
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e0ef29cf54874400800000000000000
-      internalID: 308360646430286056
+      spriteID: 62f38515d9dbefc70800000000000000
+      internalID: 9006844788159823654
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fourchette_Props_Obstacle_0: 308360646430286056
+      "Props_D\xE9cor_Plan_de_travail_0": 9006844788159823654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
